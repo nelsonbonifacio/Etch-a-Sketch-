@@ -1,5 +1,14 @@
+
+
 .container{
-    background-color: antiquewhite;
+    height: 100vh;
+    background-color: white;
     display: grid;
+    grid-template-columns: repeat(16,16px);
+    grid-template-rows: repeat(16,16px);
 }
+
+/* .container div:hover {
+background-color: red;
+} */
 
