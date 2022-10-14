@@ -25,3 +25,5 @@ function randomColor(e) {
     return randomColor;
 }
 
+const button = document.querySelector('button');
+

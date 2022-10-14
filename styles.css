@@ -16,4 +16,6 @@ body {
     grid-template-rows: repeat(16, 1fr);
 
 }
+ button {
+ }
 
